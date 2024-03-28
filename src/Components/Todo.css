@@ -1,0 +1,26 @@
+.Todo {
+    text-align: center;
+  }
+  
+  .Todo .add-task input {
+    margin-right: 10px;
+  }
+  
+  .Todo ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Todo li {
+    margin-bottom: 10px;
+  }
+  
+  .Todo button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .Todo button:hover {
+    background-color: lightgray;
+  }
+  
